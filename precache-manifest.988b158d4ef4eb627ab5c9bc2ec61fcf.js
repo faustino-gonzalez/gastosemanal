@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b3cde53279235570b064be7e4938a7a",
+    "revision": "49a3c18c283b0290ef1a6511835c800c",
     "url": "/gastosemanal/index.html"
   },
   {
-    "revision": "9c150cffea9cf4a46b49",
+    "revision": "ca7c1961a12405da689b",
     "url": "/gastosemanal/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gastosemanal/static/js/2.61a6ac2f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c150cffea9cf4a46b49",
-    "url": "/gastosemanal/static/js/main.df02d173.chunk.js"
+    "revision": "ca7c1961a12405da689b",
+    "url": "/gastosemanal/static/js/main.0b70a624.chunk.js"
   },
   {
     "revision": "a2f2df8bbb8fbc30b3c4",
